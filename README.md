@@ -1,4 +1,4 @@
-## Project Description
+**Project Description:**
 
 In this project, I will utilize a dataset containing songs from two music genres, Hip-Hop and Rock. The dataset includes track information derived from Echonest, now part of Spotify. My goal is to train a classifier that can distinguish between these two genres based solely on track features. To achieve this, I will employ Python's pandas and seaborn libraries for tasks such as data subsetting, information aggregation, and data exploration through visualizations to identify trends and relevant factors for machine learning.
 
