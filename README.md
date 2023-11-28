@@ -1,3 +1,5 @@
+##Project Description
+
 In this project, I will utilize a dataset containing songs from two music genres, Hip-Hop and Rock. The dataset includes track information derived from Echonest, now part of Spotify. My goal is to train a classifier that can distinguish between these two genres based solely on track features. To achieve this, I will employ Python's pandas and seaborn libraries for tasks such as data subsetting, information aggregation, and data exploration through visualizations to identify trends and relevant factors for machine learning.
 
 Subsequently, I will leverage the scikit-learn package to develop a predictive model. The objective is to determine whether the model can accurately classify a song's genre using features like danceability, energy, acousticness, tempo, etc. Throughout the project, I will implement common machine learning algorithms, including Principal Component Analysis (PCA), logistic regression, decision trees, and more, to achieve accurate genre classification.
